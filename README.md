@@ -17,3 +17,8 @@ yarn pub boot
 # 更新版本号
 yarn v boot 
 ```
+
+## 如何使用？
+
+1. [ModelBases使用](./md/ModelBase源码分析%20-%20从new一个model开始.md)
+2. [ModelBase源码分析 - 从new一个model开始](./md/ModelBase源码分析%20-%20从new一个model开始.md)
