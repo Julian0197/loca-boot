@@ -1,6 +1,7 @@
 import { Column, ModelBase } from 'loca-boot-core'
 
 export class AliseName extends ModelBase {
+  [x: string]: any
   @Column({ aliasName: 'userName1' })
   public uName1?: string
 

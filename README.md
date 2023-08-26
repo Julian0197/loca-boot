@@ -23,3 +23,4 @@ yarn v boot
 1. [ModelBases使用](./md/ModelBase源码分析%20-%20从new一个model开始.md)
 2. [ModelBase源码分析 - 从new一个model开始](./md/ModelBase源码分析%20-%20从new一个model开始.md)
 3. [TS装饰器和Reflect元数据](./md/TS装饰器和Reflect元数据.md)
+4. [createModel校验类型函数](./md/createModel校验传入Model内数据类型.md)
